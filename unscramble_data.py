@@ -57,7 +57,7 @@ def unscramble(input, crypto):
             scrambled_chars.append(character)
 
 
-    return ''.join(scrambled_chas)
+    return ''.join(scrambled_chars)
     #return scrambled_string
 
 
